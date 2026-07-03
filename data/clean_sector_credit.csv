@@ -1,0 +1,44 @@
+Sector,Outstanding_Apr_2025,Outstanding_Mar_2026,Outstanding_Apr_2026,FY_Growth_Pct,YoY_Growth_Pct,Category
+I.    Bank Credit (II + III),18284957,21361435,21211828,-0.7,16.0,Headline
+II.  Food Credit,62446,70271,103915,47.9,66.4,Headline
+III. Non-food Credit,18223867,21291163,21107913,-0.9,15.8,Headline
+1. Agriculture & Allied Activities,2309631,2644250,2626040,-0.7,13.7,Major Sector
+"2. Industry (Micro and Small, Medium and Large)",3943927,4584304,4537732,-1.0,15.1,Major Sector
+2.1   Micro and Small,806396,1059417,1049053,-1.0,30.1,Sub-sector
+2.2   Medium,368212,442585,441429,-0.3,19.9,Sub-sector
+2.3   Large,2769318,3082303,3047250,-1.1,10.0,Sub-sector
+3. Services,5021392,6061400,5954519,-1.8,18.6,Major Sector
+3.1   Transport Operators,263409,286807,286206,-0.2,8.7,Sub-sector
+3.2   Computer Software,33451,45738,51096,11.7,52.7,Sub-sector
+"3.3   Tourism, Hotels & Restaurants",84965,102559,102767,0.2,21.0,Sub-sector
+3.4   Shipping,7778,10384,10944,5.4,40.7,Sub-sector
+3.5   Aviation,46571,52688,52704,0.0,13.2,Sub-sector
+3.6   Professional Services,194450,218324,219386,0.5,12.8,Sub-sector
+3.7   Trade,1161710,1376531,1317230,-4.3,13.4,Sub-sector
+3.7.1. Wholesale Trade¹,619650,775808,731935,-5.7,18.1,Sub-sector
+3.7.2  Retail Trade,542060,600723,585295,-2.6,8.0,Sub-sector
+3.8   Commercial Real Estate,540775,627117,635404,1.3,17.5,Sub-sector
+"3.9   Non-Banking Financial Companies (NBFCs)² of which,",1609972,2069732,2056412,-0.6,27.7,Sub-sector
+3.9.1  Housing Finance Companies (HFCs),314914,373339,367439,-1.6,16.7,Sub-sector
+3.9.2  Public Financial Institutions (PFIs),220806,348766,346877,-0.5,57.1,Sub-sector
+3.10 Other Services³,1078312,1271520,1222370,-3.9,13.4,Sub-sector
+4. Personal Loans,5999592,6939750,6960422,0.3,16.0,Major Sector
+4.1   Consumer Durables,23081,21962,22302,1.5,-3.4,Sub-sector
+4.2   Housing,3008941,3355963,3351752,-0.1,11.4,Sub-sector
+4.3   Advances against Fixed Deposits,144157,169107,158016,-6.6,9.6,Sub-sector
+4.4   Advances to Individuals against share & bonds,10488,10546,10111,-4.1,-3.6,Sub-sector
+4.5   Credit Card Outstanding,287172,294461,298016,1.2,3.8,Sub-sector
+4.6   Education,137454,155824,155698,-0.1,13.3,Sub-sector
+4.7   Vehicle Loans,629691,738678,742870,0.6,18.0,Sub-sector
+4.8   Loan against gold jewellery4,220953,461373,488761,5.9,121.2,Sub-sector
+4.9   Other Personal Loans,1537655,1731838,1732898,0.1,12.7,Sub-sector
+(i)    Agriculture & Allied Activities5,2233685,2652747,2620849,-1.2,17.3,Priority Sector Item
+(ii)   Micro & Small Enterprises6,2313293,2896912,2973317,2.6,28.5,Priority Sector Item
+(iii)  Medium Enterprises7,604299,709163,708509,-0.1,17.2,Priority Sector Item
+(iv)   Housing,744228,1043836,1041436,-0.2,39.9,Priority Sector Item
+(v)    Education Loans,62637,77289,77212,-0.1,23.3,Priority Sector Item
+(vi)   Renewable Energy,11979,13011,13852,6.5,15.6,Priority Sector Item
+(vii) Social Infrastructure,1147,1486,1551,4.4,35.3,Priority Sector Item
+(viii) Export Credit,13193,11436,11607,1.5,-12.0,Priority Sector Item
+(ix)  Others,48690,44820,42626,-4.9,-12.5,Priority Sector Item
+(x)    Weaker Sections including net PSLC- SF/MF,1789687,2071083,1980618,-4.4,10.7,Priority Sector Item
